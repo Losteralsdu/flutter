@@ -8,6 +8,9 @@ Flutter docs: https://docs.flutter.dev/
 Textfield(Input): https://api.flutter.dev/flutter/material/TextField-class.html
 
 
+Textfield(Value): https://docs.flutter.dev/cookbook/forms/retrieve-input
+
+
 Sizedbox: https://api.flutter.dev/flutter/widgets/SizedBox-class.html
 
 
