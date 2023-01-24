@@ -1,10 +1,19 @@
 # flutter
 
+#DOCS
+
 Flutter docs: https://docs.flutter.dev/
 
+
 Textfield(Input): https://api.flutter.dev/flutter/material/TextField-class.html
+
+
 Sizedbox: https://api.flutter.dev/flutter/widgets/SizedBox-class.html
+
+
 Column: https://api.flutter.dev/flutter/widgets/Column-class.html
+
+
 
 Ergebnis
 ![image](https://user-images.githubusercontent.com/90913603/214115327-82a6b021-8539-4112-bf43-12e9ba322deb.png)
