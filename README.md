@@ -8,3 +8,7 @@ Wichtig:
   2: ![image](https://user-images.githubusercontent.com/90913603/214115557-be243559-327c-4f74-bf4a-bd6c0b228f48.png) variablen so einbinden!
   3: setState funktioniert nur in einem Stateful Widget
   4: andere Dateien Impotieren!
+  
+ Column:
+ ![image](https://user-images.githubusercontent.com/90913603/214264037-9bf2ac34-e50a-44b0-ab0f-d5a4045982a0.png)
+
